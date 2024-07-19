@@ -73,6 +73,7 @@ libxfixes3
 libgtk-3-0
 libasound2
 libxrandr2
+libvpx7
 EOF
 	fi
 
