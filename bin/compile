@@ -43,6 +43,7 @@ libxkbcommon0
 libxrandr2
 libatspi2.0-0
 libxshmfence-dev
+libdrm2
 EOF
 	fi
 
